@@ -1,0 +1,31 @@
+.location-container {
+    margin-top: 30px;
+    background-color: var(--color-tertiary);
+}
+
+.location-card-container {
+    display: flex;
+    gap: 5%;
+    padding-top: 50px;
+}
+
+.location-card {
+    width: 30%;
+    margin-bottom: 40px;
+}
+
+.location-card-image {
+    width: 100%;
+    height: auto;
+}
+
+@media screen and (max-width: 900px) {
+    .location-card-container {
+        flex-direction: column;
+    }
+
+    .location-card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
