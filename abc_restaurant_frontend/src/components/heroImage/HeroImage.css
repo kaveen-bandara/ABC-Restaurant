@@ -1,0 +1,10 @@
+.banner-content {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.lower {
+    margin-top: 100px;
+}

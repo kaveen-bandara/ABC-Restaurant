@@ -1,0 +1,25 @@
+.images-card-container {
+    display: flex;
+    gap: 5%;
+    margin-bottom: -30px;
+}
+
+.images-card {
+    width: 30%;
+}
+
+.images-card-image {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 900px) {
+    .images-card-container {
+        flex-direction: column;
+    }
+
+    .images-card {
+        width: 100%;
+    }
+}

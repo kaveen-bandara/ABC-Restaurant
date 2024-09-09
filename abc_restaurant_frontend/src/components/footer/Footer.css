@@ -1,0 +1,24 @@
+.footer {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: var(--color-quaternary);
+}
+
+.footer-card-container {
+    display: flex;
+    gap: 20%;
+}
+
+.quick-link {
+    color: var(--color-secondary);
+}
+
+.quick-link:hover {
+    color: var(--color-white);
+}
+
+@media screen and (max-width: 900px) {
+    .footer-card-container {
+        gap: 5%;
+    }
+}
