@@ -1,0 +1,44 @@
+.gallery-container {
+    margin-top: -50px;
+    margin-bottom: -50px;
+    background-color: var(--color-tertiary);
+    
+}
+
+.gallery-card-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2%;
+    padding-top: 50px;
+}
+
+.gallery-card {
+    width: 30%;
+    margin-bottom: 40px;
+}
+
+.gallery-card-image {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.gallery-card-image:last-child {
+    margin-bottom: 100px;
+}
+
+@media screen and (max-width: 900px) {
+    .gallery-card-container {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .gallery-card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .gallery-card-image:last-child {
+        margin-bottom: 30px;
+    }
+}

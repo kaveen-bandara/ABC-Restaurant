@@ -1,0 +1,11 @@
+.lunch-selection h1 {
+    text-align: center;
+    padding-bottom: 25px;
+    text-decoration: underline;
+}
+
+.lunch-selection img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
