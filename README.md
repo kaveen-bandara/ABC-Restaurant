@@ -3,6 +3,6 @@
 <br />
 A website for ABC Restaurant.
 <br />
-This project only contains the frontend.
+This project only contains the frontend. Just wanted to showcase my frontend web developing skills even though it isn't that great.
 <br />
 Project hosted at Vercel - https://abc-restaurant-seven.vercel.app/
