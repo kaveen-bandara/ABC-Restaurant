@@ -65,12 +65,6 @@ const HomeContents = () => {
                         our menu offers a delightful fusion of flavors that promise to satisfy your taste buds. 
                         Join us for an unforgettable dining experience, where exceptional food meets warm hospitality in a cozy, inviting atmosphere.
                         <br />
-                        <br />
-                        Our menu is a carefully curated selection of dishes that celebrate the best of local and international cuisine. 
-                        From mouthwatering appetizers and fresh salads to savory mains and indulgent desserts, 
-                        each item is prepared using the finest ingredients to ensure freshness and flavor in every bite.
-                        <br />
-                        <br />
                         Pair your meal with our signature cocktails, fine wines or refreshing beverages for the perfect culinary experience.
                     </p>
                     <br />
