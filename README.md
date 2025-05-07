@@ -3,6 +3,6 @@
 <br />
 A website for ABC Restaurant made using React framework. Certain parts aren't fully completed and might stay that way indefinitely.
 <br />
-This project only contains the frontend. Just wanted to showcase my frontend web developing skills even though it isn't that great.
+This project only contains the frontend.
 <br />
 Project hosted at Vercel - https://abc-restaurant-seven.vercel.app/
