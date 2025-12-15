@@ -11,6 +11,7 @@ import Gallery from './pages/gallery/Gallery'
 import Home from './pages/home/Home'
 import Menu from './pages/menu/Menu'
 import Reservation from './pages/reservation/Reservation'
+import Admin from './pages/admin/Admin'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
         <Route path='/gallery' element={<Gallery />} />
         <Route path='/menu' element={<Menu />} />
         <Route path='/reservation' element={<Reservation />} />
+        <Route path='/admin' element={<Admin />} />
       </Routes>
       <Footer />
     </div>

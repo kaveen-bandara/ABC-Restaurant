@@ -54,7 +54,7 @@ const HomeContents = () => {
                         Amazing meals <span className='ampersand'>&</span>
                         <br />
                         <span>
-                            Great <br /> Entertainment
+                            Great <br /> Atmosphere
                         </span>
                     </h2>
 
@@ -66,14 +66,10 @@ const HomeContents = () => {
                         Join us for an unforgettable dining experience, where exceptional food meets warm hospitality in a cozy, inviting atmosphere.
                         <br />
                         <br />
-                        Our menu is a carefully curated selection of dishes that celebrate the best of local and international cuisine. 
-                        From mouthwatering appetizers and fresh salads to savory mains and indulgent desserts, 
+                        Our menu is a carefully curated selection of dishes that celebrate the best of cosmic cuisine. 
+                        From appetizers and salads to mains and desserts, 
                         each item is prepared using the finest ingredients to ensure freshness and flavor in every bite.
-                        <br />
-                        <br />
-                        Pair your meal with our signature cocktails, fine wines or refreshing beverages for the perfect culinary experience.
                     </p>
-                    <br />
 
                     <blockquote>
                     Good food is the foundation of genuine happiness. Here, we don’t just serve meals; we create memorable experiences, one plate at a time.

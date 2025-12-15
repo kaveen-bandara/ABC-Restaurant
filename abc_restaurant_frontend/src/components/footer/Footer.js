@@ -10,9 +10,9 @@ const Footer = () => {
         <div className='footer-card-container'>
           <div>
             <h3>ABC Restaurant</h3>
-            <p>Locations: Colombo, Galle, Kandy</p>
+            <p>Locations: Just go outside, you'll find it</p>
             <p>Email: reservations@abcrestaurant.lk</p>
-            <p>Phone: (+94) 77 243 6763</p>
+            <p>Phone: 0123456789</p>
           </div>
           <div>
             <h3>Quick Links</h3>
@@ -28,11 +28,9 @@ const Footer = () => {
           </div>
           <div>
             <h3>Opening Hours</h3>
-            <p>Monday - Thursday</p>
-            <p>12.00 – 3.30 PM & 6.30 -10.30 PM</p>
-            <p>Friday - Sunday</p>
-            <p>12.00 – 3.30 PM & 6.30 -10.30 PM</p>
-            <p>(Hours may differ)</p>
+            <p>Monday - Saturday | Open 24/7</p>
+            <p>Sunday | 12.00 PM – 1.00 PM  in your timezone will be closed</p>
+            <p>(Hours are calculated to Earth time)</p>
           </div>
         </div>
       </div>

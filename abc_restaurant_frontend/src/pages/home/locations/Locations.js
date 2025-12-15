@@ -15,7 +15,7 @@ const Locations = () => {
             <div className='container'>
                 <div className='location-card-container'>
                     <div className='location-card'>
-                        <img src={colombo} alt="colombo" className='location-card-image' />
+                        <img src={location} alt="colombo" className='location-card-image' />
                         <center><button>Colombo</button></center>
                     </div>
 

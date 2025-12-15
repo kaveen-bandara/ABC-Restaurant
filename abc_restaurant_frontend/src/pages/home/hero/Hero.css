@@ -1,5 +1,5 @@
 .hero-img {
-    height: 100vh;
+    height: 120vh;
     background-image: url('../../../assets/home.jpg');
     background-repeat: no-repeat;
     background-position: top;
@@ -9,6 +9,7 @@
 
 .hero-content {
     position: absolute;
+    text-shadow: 0 0 50px rgba(0,0,0,0.9);
     top: 40%;
 }
 
