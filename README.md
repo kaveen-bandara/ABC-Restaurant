@@ -1,7 +1,7 @@
 # ABC Restaurant
 ![logo](https://github.com/user-attachments/assets/cd9813d2-2152-4dc6-93ae-0c9821f56d84)
 <br />
-A website for ABC Restaurant made using React framework. Certain parts aren't fully completed and might stay that way indefinitely.
+A website for ABC Restaurant made using React framework. Certain parts aren't fully completed yet.
 <br />
 This project only contains the frontend.
 <br />
